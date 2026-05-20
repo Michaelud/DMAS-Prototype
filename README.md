@@ -19,7 +19,6 @@ distress alert feed ranked by neighbourhood severity.
 | 4 | Deployment Agent | Ranks areas and allocates rescue resources |
 
 ## Files
-- `dmas_prototype.py` — General prototype with live OpenWeatherMap API
 - `dmas_lagos_flood_2024.py` — Scenario based on Lagos State flood, December 2024 (275,621 persons affected, IOM/NEMA, 2024)
 
 ## How to Run
